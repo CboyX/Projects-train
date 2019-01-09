@@ -6,8 +6,6 @@
 
 2. 服务消费者（Ribbon、feign）
 
-   ##### 为实现：其中的feign可以成功注册，但是不能访问（404）
-
 3. 断路器(Netflix Hystrix)
 
 4. 分布式配置中心(config Server)
